@@ -1,4 +1,4 @@
-\# Linux Systems Programming in C
+# Linux Systems Programming in C
 
 
 
@@ -6,7 +6,7 @@ Two labs from a systems programming course at ENSEA, written in C for Linux.
 
 
 
-\## TP1 – enseash, a mini shell
+## TP1 – enseash, a mini shell
 
 
 
@@ -32,7 +32,7 @@ gcc TP1/Q6.c -o enseash
 
 
 
-\## TP2 – TFTP client
+## TP2 – TFTP client
 
 
 
